@@ -1,0 +1,6 @@
+#DAMENIK THAQI
+#DAMENIK.THAQI50@MYHUNTER.CUNY.EDU
+
+
+
+print('Hello, World!')

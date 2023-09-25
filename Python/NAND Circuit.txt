@@ -1,0 +1,4 @@
+#DAMENIK THAQI
+#DAMENIK.THAQI50@MYHUNTER.CUNY.EDU
+
+out = not (in1 and in2)

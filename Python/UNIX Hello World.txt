@@ -1,0 +1,6 @@
+#DAMENIK THAQI
+#DAMENIK.THAQI50@MYHUNTER.CUNY.EDU
+
+
+#!/bin/bash
+echo "Hello, World"

@@ -1,0 +1,5 @@
+#DAMENIK THAQI
+#DAMENIK.THAQI50@myhunter.cuny.edu
+
+#!/bin/bash
+ls | grep ".py" | wc -l
